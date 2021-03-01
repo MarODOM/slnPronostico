@@ -1,0 +1,39 @@
+﻿
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1{
+    font-size:50px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.banner {
+    width: 100%;
+    height: auto;
+    position:relative;
+    display: inline-block;
+}
+
+.banner img {
+    height: 50%;
+    width: 100%;
+}
+
+.centrado {
+    position: absolute ;
+    bottom:0;
+    top:40px;
+}
+
+
+
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    table-layout: fixed;
+}
